@@ -4,7 +4,7 @@ OBJECTIVE - To develop a comprehensive credit card weekly dashboards that provid
 WoW Change : Revenue increased by 28.8% Total transaction count and amount increased along with customer count.
 Overview YTD : Overall revenue is 57M. 
 Total interest is 8M. 
-Total transaction amount is 46M. 
+Total transaction amount is 44M. 
 Male customers are contributing more in revenue 31M where as female 26M. 
 Blue & Silver members are contributing almost around 93% of overall transactions. 
 TX, NY & CA is contributing to 68%.
